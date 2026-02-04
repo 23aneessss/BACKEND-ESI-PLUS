@@ -18,7 +18,7 @@ This is a full-featured REST API backend built with FastAPI, providing user mana
 ## Project Structure
 
 ```
-Backend-Projet-TEO/
+Backend-ESI+/
 ├── main.py                 # Application entry point
 ├── database.py            # Database configuration and session management
 ├── models/                # SQLAlchemy database models
@@ -75,7 +75,7 @@ Backend-Projet-TEO/
 1. **Clone the repository:**
    ```bash
    git clone <repository-url>
-   cd Backend-Projet-TEO
+   cd Backend-ESI+
    ```
 
 2. **Create a virtual environment:**
