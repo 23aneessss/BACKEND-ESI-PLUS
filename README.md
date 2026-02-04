@@ -1,6 +1,7 @@
-# Backend Projet TEO
+# Backend ESI+ 
 
-A modern FastAPI-based backend application featuring user authentication, todo management, blog system, and AI-powered chat functionality.
+ESI+ is a modern platform designed to support students in their daily study life. It provides tools such as todo management, a blog system, and an AI-powered chat assistant to help students stay organized, informed, and productive.
+
 
 ## Overview
 
